@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/SandeepFlix/static/css/main.648c8bfc.css",
+    "main.js": "/SandeepFlix/static/js/main.211946a9.js",
+    "static/js/787.e72d1616.chunk.js": "/SandeepFlix/static/js/787.e72d1616.chunk.js",
+    "index.html": "/SandeepFlix/index.html",
+    "static/media/search.svg": "/SandeepFlix/static/media/search.0b49c0f6c721910ccc9ff709dbe87343.svg",
+    "main.648c8bfc.css.map": "/SandeepFlix/static/css/main.648c8bfc.css.map",
+    "main.211946a9.js.map": "/SandeepFlix/static/js/main.211946a9.js.map",
+    "787.e72d1616.chunk.js.map": "/SandeepFlix/static/js/787.e72d1616.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.648c8bfc.css",
+    "static/js/main.211946a9.js"
+  ]
+}
